@@ -7,7 +7,7 @@ Welcome to the Vanguard Digital Experiment Analysis project! As a newly employed
 Authors:
 @Adam Nowicki
 @Mariona Tarrago Aymerich
-@Michael Elbas
+@Michael Elbaz
 @Stephanie Pragassam
 
 ## Project Overview
