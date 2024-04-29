@@ -4,6 +4,12 @@
 
 Welcome to the Vanguard Digital Experiment Analysis project! As a newly employed data analyst in the Customer Experience (CX) team at Vanguard, your primary task is to decode the performance of a recently conducted digital experiment aimed at enhancing user experience on Vanguard's online platform.
 
+Authors:
+@Adam Nowicki
+@Mariona Tarrago Aymerich
+@Michael Elbas
+@Stephanie Pragassam
+
 ## Project Overview
 
 Vanguard conducted an A/B test to evaluate the impact of a redesigned digital interface on user experience and process completion rates.
