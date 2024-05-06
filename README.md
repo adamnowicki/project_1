@@ -53,7 +53,7 @@ Tableau Dashboards:
 - [Client Analysis Dashboard](https://public.tableau.com/app/profile/pragassam.stephanie/viz/Demo_raw/EDAKeydemographics?publish=yes "Client Analysis Dashboard")
 
 Presentation:
-- [Vanguard A/B Testing Presentation](https://docs.google.com/presentation/d/10FxDnuS45t0KGCJ-P_bxJkgiKeXX1MsmqP6Y4l7-BJI/edit#slide=id.g2c698ea0bba_6_478 "PPT")
+- [Vanguard A/B Testing Presentation](https://docs.google.com/presentation/d/114nXQYJa6InqOI12Wy68SL73oyNkvqMo-uoFLSgrlvs/edit#slide=id.g2c742d8c937_0_102 "PPT")
 
 
 
